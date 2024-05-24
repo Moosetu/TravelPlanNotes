@@ -8,4 +8,4 @@ Access your travel plans anytime, anywhere, even without an Internet connection.
 
 Ideal for remote destinations or areas with limited connectivity.
 
-Download Notes: https://apps.apple.com/us/app/travel-plan-notes/id6479497434
+Download Travel Plan Notes: https://apps.apple.com/us/app/travel-plan-notes/id6479497434
